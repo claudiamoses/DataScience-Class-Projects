@@ -1,6 +1,6 @@
 # DataScience-Class-Projects
 
-**UPDATE:** my performance across these projects and in the final project earned me an offer to **TA Datasci 112** for the next academic term (April 2024- June 2024). This means that next quarter, I will teach the content of the course to students who take this class. Please see my updated resume for the most up-to-date information about my experiences.
+**UPDATE:** my performance across these projects and in the final project earned me an offer to **TA Datasci 112** for the next academic term (April 2024- June 2024). This means that next quarter, I will teach the content of the course to students who take this class. Please see my **[updated resume]**(https://github.com/claudiamoses/DataScience-Class-Projects/blob/038e8cada85544d92536fd1826ef487e6066f71a/1RESUME.pdf) for the most up-to-date information about my experiences.
 
 Thank you for visiting my page! These are projects I have completed in datasci 112, which I took at Stanford in Winter 2024.
 
